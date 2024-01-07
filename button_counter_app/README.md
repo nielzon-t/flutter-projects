@@ -1,16 +1,31 @@
-# button_counter_app
+# Button Counter App
 
-A new Flutter project.
+This simple Flutter app demonstrates the functionality of creating buttons and counters in Flutter.
+
+## Overview
+
+The app consists of three buttons, each accompanied by a counter displaying the number of times the respective button has been clicked. The interface is straightforward and user-friendly.
+
+## Features
+
+- Three buttons to increment individual counters
+- Displays the count of button clicks below each button
+- Floating Action Button (FAB) to reset all counters to zero
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository: `git clone https://github.com/your-username/button_counter_app.git`
+2. Open the project in your preferred IDE or text editor.
+3. Run the app using a Flutter-supported emulator or physical device.
 
-A few resources to get you started if this is your first Flutter project:
+## App Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The goal for thuis project is to structure it into multiple steps, each saved in its own file. The steps will include placing widgets, adding callbacks, implementing counter logic, and more.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Feel free to contribute by creating issues or pull requests. Your suggestions and improvements are highly appreciated!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
